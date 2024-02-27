@@ -1,0 +1,48 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Blinker';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Blinker Regular'), local('Blinker-Regular'), url(./Blinker/Blinker-Regular.ttf) format('truetype');
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Blinker';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Blinker SemiBold'), local('Blinker-SemiBold'), url(./Blinker/Blinker-SemiBold.ttf) format('truetype');
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Blinker';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Blinker Bold'), local('Blinker-Bold'), url(./Blinker/Blinker-Bold.ttf) format('truetype');
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Titillium Web Regular'),
+  local('Titillium-Regular'),
+  url(./TitilliumWeb/TitilliumWeb-Regular.ttf) format('truetype');
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Titillium Web Bold'),
+  local('Titillium-Bold'),
+  url(./TitilliumWeb/TitilliumWeb-Bold.ttf) format('truetype');
+}
